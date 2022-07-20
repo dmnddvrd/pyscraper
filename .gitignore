@@ -1,0 +1,7 @@
+*.csv
+*.json
+.env
+.venv
+.venv/
+**.pyc
+.DS_Store
